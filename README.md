@@ -2,7 +2,7 @@
 
 A lightweight to-do list app created using vanilla JavaScript, HTML, and CSS. This app allows users to manage tasks effectively with basic functionalities like adding, deleting, and marking tasks as complete. Task data is stored in the browser’s local storage, making it available even after a page refresh.
 
-# Live Demo
+## Live Demo
 
 [View Live Demo]()
 
