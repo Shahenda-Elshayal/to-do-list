@@ -4,7 +4,7 @@ A lightweight to-do list app created using vanilla JavaScript, HTML, and CSS. Th
 
 ## Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://shahenda-elshayal.github.io/to-do-list/)
 
 ## Features
 
